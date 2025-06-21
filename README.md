@@ -14,10 +14,12 @@ This tool serves as a visual and educational aid for understanding the geography
 
 4. Useful for geography learning, tourism info, or school projects.
 <br>
-🔹 Technologies Used
+🔹 Technologies Used:-
 <br>
 1.HTML (Image maps for clickable areas)
 2.CSS (Basic styling)
 3.JavaScript (For interactivity)
 <br>
-author :- SANU KUMAR DWIVEDI
+🔹 Author:-
+<br>
+SANU KUMAR DWIVEDI
