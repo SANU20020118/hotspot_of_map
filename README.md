@@ -1,5 +1,7 @@
 # 🗺️ hotspot_of_map
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## 🔹 Project Overview
 
 This project presents an **interactive map of Uttarakhand** that highlights each district as a **clickable hotspot**. When a user clicks on any district within the map, a **brief description** of that specific district is displayed.  
